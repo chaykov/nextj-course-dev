@@ -72,7 +72,7 @@ export default function ContactForm() {
     notification = {
       status: "success",
       title: "Success!",
-      message: "Your message is sent!",
+      message: "Your message is sent!!!!",
     };
   }
 
